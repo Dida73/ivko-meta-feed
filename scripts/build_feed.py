@@ -68,6 +68,8 @@ def money(prices, key):
 
 def build_rows(products, variations):
     skipped = Counter()
+    skipped_list = []
+    build_rows.skipped_list = skipped_list
     rows = []
 
     by_parent = {}
@@ -80,6 +82,9 @@ def build_rows(products, variations):
         cur_price = money(prices, "price")
         if not reg or reg[0] <= 0:
             skipped["цена 0 или липсва"] += 1
+            skipped_list.append({"id": p["id"], "name": (parent or p).get("name"), "type": p.get("type"),
+                                 "parent": (parent or {}).get("id"), "raw_prices": {k: prices.get(k) for k in ("price", "regular_price")},
+                                 "link": p.get("permalink") or (parent or {}).get("permalink")})
             return None
         if not p.get("is_in_stock", False):
             skipped["не е в наличност"] += 1
@@ -160,6 +165,7 @@ def main():
         "rows_with_price_zero": sum(1 for r in rows if float(r["price"].split()[0]) <= 0),
         "rows_without_image": sum(1 for r in rows if not r["image_link"]),
         "skipped": dict(skipped),
+        "skipped_price_zero_list": getattr(build_rows, "skipped_list", [])[:300],
     }
     (OUT_DIR / "report.json").write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8")
     print(json.dumps(report, ensure_ascii=False, indent=2))

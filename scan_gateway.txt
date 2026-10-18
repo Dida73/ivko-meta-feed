@@ -1,0 +1,42 @@
+===== начална https://mebeliivko.bg/ 232096 байта
+  'openbridge': 0
+  'capig': 0
+  'capi-gateway': 0
+  'amazonaws': 0
+  'cloudfront': 0
+  'conversions-api-gateway': 0
+  'fb_conv_service': 0
+  'signalsgateway': 0
+  'pixel_server': 0
+  външни домейни: ['cdn.ampproject.org', 'cdn.jsdelivr.net', 'easyweb.bg', 'www.apartmenttherapy.com', 'www.facebook.com', 'www.google-analytics.com', 'www.googletagmanager.com']
+  fbq('set' извиквания: ["fbq('set', 'agent', (function(){var a='woocommerce_0-11.1.2-3.7.8'"]
+  fbq('init' извиквания: ["fbq('init', this._pixelId, this._pixelUserInfo, this._pixelOptions)"]
+  заглавия: {'Cache-Control': 'no-cache', 'Server': 'Apache'}
+===== продукт https://mebeliivko.bg/produkt/%d0%bc%d0%be%d0%b4%d1%83%d0%bb%d0%bd%d0%b0-%d1%81%d0%bf%d0%b0%d0%bb%d0%bd%d1%8f-canberra/ 252154 байта
+  'openbridge': 0
+  'capig': 0
+  'capi-gateway': 0
+  'amazonaws': 0
+  'cloudfront': 0
+  'conversions-api-gateway': 0
+  'fb_conv_service': 0
+  'signalsgateway': 0
+  'pixel_server': 0
+  външни домейни: ['cdn.ampproject.org', 'cdn.jsdelivr.net', 'easyweb.bg', 'www.apartmenttherapy.com', 'www.facebook.com', 'www.google-analytics.com', 'www.googletagmanager.com']
+  fbq('set' извиквания: ["fbq('set', 'agent', (function(){var a='woocommerce_0-11.1.2-3.7.8'", "fbq('set', 'agent', (function(){var a='woocommerce_0-11.1.2-3.7.8'"]
+  fbq('init' извиквания: ["fbq('init', this._pixelId, this._pixelUserInfo, this._pixelOptions)"]
+  заглавия: {'Cache-Control': 'no-cache', 'Server': 'Apache'}
+===== количка https://mebeliivko.bg/kolichka/ 287832 байта
+  'openbridge': 0
+  'capig': 0
+  'capi-gateway': 0
+  'amazonaws': 0
+  'cloudfront': 0
+  'conversions-api-gateway': 0
+  'fb_conv_service': 0
+  'signalsgateway': 0
+  'pixel_server': 0
+  външни домейни: ['cdn.ampproject.org', 'cdn.jsdelivr.net', 'easyweb.bg', 'www.facebook.com', 'www.google-analytics.com', 'www.googletagmanager.com']
+  fbq('set' извиквания: ["fbq('set', 'agent', (function(){var a='woocommerce_0-11.1.2-3.7.8'"]
+  fbq('init' извиквания: ["fbq('init', this._pixelId, this._pixelUserInfo, this._pixelOptions)"]
+  заглавия: {'Cache-Control': 'no-cache, must-revalidate, max-age=0, private', 'Server': 'Apache'}

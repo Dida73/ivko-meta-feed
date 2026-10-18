@@ -1,0 +1,10 @@
+{
+  "products_read": 1102,
+  "variations_read": 133,
+  "rows_in_feed": 1068,
+  "rows_with_price_zero": 0,
+  "rows_without_image": 0,
+  "skipped": {
+    "цена 0 или липсва": 125
+  }
+}

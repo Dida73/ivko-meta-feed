@@ -1,0 +1,24 @@
+===== начална 232096 байта
+fbq( извиквания: 8
+fbevents.js: ['https://connect.facebook.net/en_US/fbevents.js']
+pixel id-та: ['1309567634537033']
+fbq init редове: ["fbq('init', this._pixelId, this._pixelUserInfo, this._pixelOptions)"]
+приставки, зареждащи се (wp-content/plugins):
+   abovewp-bulgarian-eurozone
+   duracelltomi-google-tag-manager
+   facebook-for-woocommerce
+   newsletter
+   woocommerce
+track извиквания: ['sStale ? null : "7b32a43a-afc2-4d12-8194-0840943a12b5"); } else if (isStale) { \tfbq(\'track\', \'PageView\', {     "source": "woocommerce_0",     "version": "11.1.2",     "plu', 'ommerce_0",     "version": "11.1.2",     "pluginVersion": "3.7.8" }); } else { \tfbq(\'track\', \'PageView\', {     "source": "woocommerce_0",     "version": "11.1.2",     "plu']
+===== продукт 252154 байта
+fbq( извиквания: 11
+fbevents.js: ['https://connect.facebook.net/en_US/fbevents.js']
+pixel id-та: ['1309567634537033']
+fbq init редове: ["fbq('init', this._pixelId, this._pixelUserInfo, this._pixelOptions)"]
+приставки, зареждащи се (wp-content/plugins):
+   abovewp-bulgarian-eurozone
+   duracelltomi-google-tag-manager
+   facebook-for-woocommerce
+   newsletter
+   woocommerce
+track извиквания: ['sStale ? null : "ccea89cc-ae26-4b1b-8265-c35e3d6defe1"); } else if (isStale) { \tfbq(\'track\', \'PageView\', {     "source": "woocommerce_0",     "version": "11.1.2",     "plu', 'ommerce_0",     "version": "11.1.2",     "pluginVersion": "3.7.8" }); } else { \tfbq(\'track\', \'PageView\', {     "source": "woocommerce_0",     "version": "11.1.2",     "plu', 'sStale ? null : "ac2cea86-5b42-47a3-b4db-51be0877e30e"); } else if (isStale) { \tfbq(\'track\', \'ViewContent\', {     "source": "woocommerce_0",     "version": "11.1.2",     "', '\\u043a\\u0442\\u0438",     "value": "923.40",     "currency": "EUR" }); } else { \tfbq(\'track\', \'ViewContent\', {     "source": "woocommerce_0",     "version": "11.1.2",     "']

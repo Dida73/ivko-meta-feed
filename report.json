@@ -6,5 +6,1382 @@
   "rows_without_image": 0,
   "skipped": {
     "цена 0 или липсва": 125
-  }
+  },
+  "skipped_price_zero_list": [
+    {
+      "id": 10123,
+      "name": "Бебешки матрак Koko baby",
+      "type": "variation",
+      "parent": 10117,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/bebeshki-matrak-koko-baby/"
+    },
+    {
+      "id": 10122,
+      "name": "Бебешки матрак Koko baby",
+      "type": "variation",
+      "parent": 10117,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/bebeshki-matrak-koko-baby/"
+    },
+    {
+      "id": 10121,
+      "name": "Бебешки матрак Koko baby",
+      "type": "variation",
+      "parent": 10117,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/bebeshki-matrak-koko-baby/"
+    },
+    {
+      "id": 10120,
+      "name": "Бебешки матрак Koko baby",
+      "type": "variation",
+      "parent": 10117,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/bebeshki-matrak-koko-baby/"
+    },
+    {
+      "id": 10113,
+      "name": "Бебешки матрак Triple Fresh",
+      "type": "variation",
+      "parent": 10105,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/bebeshki-matrak-triple-fresh/"
+    },
+    {
+      "id": 10112,
+      "name": "Бебешки матрак Triple Fresh",
+      "type": "variation",
+      "parent": 10105,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/bebeshki-matrak-triple-fresh/"
+    },
+    {
+      "id": 10111,
+      "name": "Бебешки матрак Triple Fresh",
+      "type": "variation",
+      "parent": 10105,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/bebeshki-matrak-triple-fresh/"
+    },
+    {
+      "id": 10110,
+      "name": "Бебешки матрак Triple Fresh",
+      "type": "variation",
+      "parent": 10105,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/bebeshki-matrak-triple-fresh/"
+    },
+    {
+      "id": 10109,
+      "name": "Бебешки матрак Triple Fresh",
+      "type": "variation",
+      "parent": 10105,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/bebeshki-matrak-triple-fresh/"
+    },
+    {
+      "id": 8365,
+      "name": "Шкаф за обувки Компанит ТО-19 / Златен крафт/",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/shkaf-za-obuvki-kompanit-to-19-2/"
+    },
+    {
+      "id": 7907,
+      "name": "Холна маса Компанит Мадрид-3",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/holna-masa-kompanit-madrid-3/"
+    },
+    {
+      "id": 7713,
+      "name": "Легло Компанит 160",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/leglo-kompanit-160/"
+    },
+    {
+      "id": 7634,
+      "name": "Комплект Компанит Дневна 93 (КС-12, Джаз-2)",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/komplekt-kompanit-dnevna-93-ks-12-dzhaz-2/"
+    },
+    {
+      "id": 7629,
+      "name": "Комплект Компанит Дневна 89 (Трюмо-10, Лофт-5, ПКТ-7)",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/komplekt-kompanit-dnevna-89-tryumo-10-loft-5/"
+    },
+    {
+      "id": 7623,
+      "name": "Комплект Компанит Дневна 83 (Шкаф-15, Стол-Книжка-7)",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/komplekt-kompanit-dnevna-83-shkaf-15-stol-k/"
+    },
+    {
+      "id": 7594,
+      "name": "Комплект Компанит Дневна 88 (П-28, Джаз-3)",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/komplekt-kompanit-dnevna-88-p-28-dzhaz-3/"
+    },
+    {
+      "id": 7575,
+      "name": "Висок шкаф Компанит Шкаф-8",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/visok-shkaf-kompanit-shkaf-8/"
+    },
+    {
+      "id": 7471,
+      "name": "Шкаф за стена Компанит МГ-5 Тумба",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/shkaf-za-stena-kompanit-mg-5-tumba/"
+    },
+    {
+      "id": 7346,
+      "name": "Скрин Компанит Комод-4-1П",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/skrin-kompanit-komod-4-1pskrin-kompanit/"
+    },
+    {
+      "id": 7275,
+      "name": "Гардероб Адоре GRD-1330-BB-2",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/garderob-adore-grd-1330-bb-2/"
+    },
+    {
+      "id": 7141,
+      "name": "Портманто Компанит Ангелина",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/portmanto-kompanit-angelina/"
+    },
+    {
+      "id": 7016,
+      "name": "Трапезна маса Компанит КС-8",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/trapezna-masa-kompanit-ks-8/"
+    },
+    {
+      "id": 6988,
+      "name": "Портманто Компанит Татяна",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/portmanto-kompanit-tatyana/"
+    },
+    {
+      "id": 6979,
+      "name": "Портманто Компанит Алиса",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/portmanto-kompanit-alisa/"
+    },
+    {
+      "id": 6968,
+      "name": "Двуетажно легло Компанит УНИВЕРСАЛ-3",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/dvuetazhno-leglo-kompanit-universal-3/"
+    },
+    {
+      "id": 6845,
+      "name": "Двуетажно легло Компанит УНИВЕРСАЛ-2",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/dvuetazhno-leglo-kompanit-universal-2/"
+    },
+    {
+      "id": 6773,
+      "name": "Кухненски ъгъл Компанит Кипър",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnenski-agal-kompanit-kipar/"
+    },
+    {
+      "id": 6712,
+      "name": "Висок шкаф Компанит Шкаф-10",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/visok-shkaf-kompanit-shkaf-10/"
+    },
+    {
+      "id": 6471,
+      "name": "Кухненски ъгъл Компанит Дания",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnenski-agal-kompanit-daniya/"
+    },
+    {
+      "id": 6366,
+      "name": "Тоалетка Компанит ТРЮМО-8",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/toaletka-kompanit-tryumo-8/"
+    },
+    {
+      "id": 6108,
+      "name": "Скрин Адоре SFN-550-BB-1 (бяло)",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/skrin-adore-sfn-550-bb-1-byalo/"
+    },
+    {
+      "id": 6094,
+      "name": "Скрин Адоре SFN-550-SS-1 (сонома)",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/skrin-adore-sfn-550-ss-1-sonoma/"
+    },
+    {
+      "id": 6087,
+      "name": "Скрин Адоре SFN-840-MB-1",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/skrin-adore-sfn-840-mb-1/"
+    },
+    {
+      "id": 6081,
+      "name": "Скрин Адоре SFN-604-BB-1",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/skrin-adore-sfn-604-bb-1/"
+    },
+    {
+      "id": 6075,
+      "name": "Скрин Адоре SFN-540-BB-1 (бяло)",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/skrin-adore-sfn-540-bb-1-byalo/"
+    },
+    {
+      "id": 6070,
+      "name": "Скрин Адоре SFN-1403-MB-1",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/skrin-adore-sfn-1403-mb-1/"
+    },
+    {
+      "id": 6052,
+      "name": "Скрин Адоре SFN-550-TT-1 (тори)",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/skrin-adore-sfn-550-tt-1-tori/"
+    },
+    {
+      "id": 6046,
+      "name": "Скрин Адоре SFN-1303-BB-1",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/skrin-adore-sfn-1303-bb-1/"
+    },
+    {
+      "id": 6036,
+      "name": "Портманто WISDOM DD5-AA (бор/антрацит)",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/portmanto-wisdom-dd5-aa-bor-antratsit/"
+    },
+    {
+      "id": 6029,
+      "name": "Портманто WISDOM DD5-AW (бор/бяло)",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/portmanto-wisdom-dd5-aw-bor-byalo/"
+    },
+    {
+      "id": 6023,
+      "name": "Портманто WISDOM DD5-W (бяло)",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/portmanto-wisdom-dd5-w-byalo/"
+    },
+    {
+      "id": 5920,
+      "name": "ТВ шкаф Компанит Плазма-2",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/tv-shkaf-kompanit-plazma-2-2/"
+    },
+    {
+      "id": 5849,
+      "name": "Ъглов диван MDS-S030",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/aglov-divan-mds-s030/"
+    },
+    {
+      "id": 5793,
+      "name": "Кухненски ъгъл Компанит Марсел",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnenski-agal-kompanit-marsel/"
+    },
+    {
+      "id": 5783,
+      "name": "ТВ шкаф Компанит Плазма-2",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/tv-shkaf-kompanit-plazma-2/"
+    },
+    {
+      "id": 4842,
+      "name": "Етажерка Адоре KTP-150-SS-1",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/etazherka-adore-ktp-150-ss-1/"
+    },
+    {
+      "id": 4086,
+      "name": "Двуетажно легло Компанит Бриз (дъб крафт златен)",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/dvuetazhno-leglo-kompanit-briz-dab-kra/"
+    },
+    {
+      "id": 4075,
+      "name": "Двуетажно легло Компанит БРИЗ + 2 матрака",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/dvuetazhno-leglo-kompanit-briz-2-matrak/"
+    },
+    {
+      "id": 4035,
+      "name": "Портманто Адоре PRT-511-TT-1",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/portmanto-adore-prt-511-tt-1/"
+    },
+    {
+      "id": 3913,
+      "name": "ТВ шкаф Компанит Карат-2 (светло ателие)",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/tv-shkaf-kompanit-karat-2-svetlo-atelie/"
+    },
+    {
+      "id": 3906,
+      "name": "ТВ шкаф Компанит Карат-2 (дъб крафт златен)",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/tv-shkaf-kompanit-karat-2-dab-kraft-zlat/"
+    },
+    {
+      "id": 3777,
+      "name": "Шкаф за обувки Адоре ADR-322-SS-1 (сонома)",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/shkaf-za-obuvki-adore-adr-322-ss-1-sonoma/"
+    },
+    {
+      "id": 3255,
+      "name": "Трапезна маса Компанит Книжка-3",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/trapezna-masa-kompanit-knizhka-3-2/"
+    },
+    {
+      "id": 3214,
+      "name": "Комплект Компанит Спалня 87 (Трюмо-9, ПКТ-8, Комод-1-3-2)",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/komplekt-kompanit-spalnya-87-tryumo-9-pkt-8/"
+    },
+    {
+      "id": 3117,
+      "name": "ТВ шкаф Компанит МС ТВ-4 МДФ",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/tv-shkaf-kompanit-ms-tv-4-mdf/"
+    },
+    {
+      "id": 2672,
+      "name": "ТВ шкаф Компанит Карат-2",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/tv-shkaf-kompanit-karat-2/"
+    },
+    {
+      "id": 2526,
+      "name": "Холна маса Lena",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/holna-masa-lena/"
+    },
+    {
+      "id": 2467,
+      "name": "Холна маса PIPRA",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/holna-masa-pipra/"
+    },
+    {
+      "id": 2374,
+      "name": "Холна маса MARBO (дъб сапфир/копринено черно)",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/holna-masa-marbo-dab-sapfir-koprineno-chern/"
+    },
+    {
+      "id": 2366,
+      "name": "Холна маса CYCLO (антрацит),(бяло)",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/holna-masa-cyclo-antratsitbyalo/"
+    },
+    {
+      "id": 2345,
+      "name": "Холна маса Компанит Тандем",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/holna-masa-kompanit-tandem/"
+    },
+    {
+      "id": 2316,
+      "name": "Холна маса FD-FP4560FPT (антрацит)",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/holna-masa-fd-fp4560fpt-antratsit/"
+    },
+    {
+      "id": 2310,
+      "name": "Помощна маса FD-6035LS (бор)",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/pomoshtna-masa-fd-6035ls-bor/"
+    },
+    {
+      "id": 2190,
+      "name": "Секция Сити 6037",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/sektsiya-siti-6037/"
+    },
+    {
+      "id": 2076,
+      "name": "Модулна секция Компанит МГ-2",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/modulna-sektsiya-kompanit-mg-2/"
+    },
+    {
+      "id": 2068,
+      "name": "Модулна секция Компанит МГ-3",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/modulna-sektsiya-kompanit-mg-3/"
+    },
+    {
+      "id": 1844,
+      "name": "Диван KLARK",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/divan-klark/"
+    },
+    {
+      "id": 1645,
+      "name": "Трапезен стол 410",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/trapezen-stol-410/"
+    },
+    {
+      "id": 1641,
+      "name": "Трапезен стол K 332",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/trapezen-stol-k-332/"
+    },
+    {
+      "id": 1630,
+      "name": "Трапезен стол ПАРИС",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/trapezen-stol-paris/"
+    },
+    {
+      "id": 1628,
+      "name": "Трапезен стол Виена",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/trapezen-stol-viena/"
+    },
+    {
+      "id": 1626,
+      "name": "Трапезен стол София",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/trapezen-stol-sofiya/"
+    },
+    {
+      "id": 1582,
+      "name": "Трапезна маса Компанит Книжка-3",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/trapezna-masa-kompanit-knizhka-3/"
+    },
+    {
+      "id": 1510,
+      "name": "Трапезен комплект ZEN 26 (White/Chrome)",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/trapezen-komplekt-zen-26-white-chrome/"
+    },
+    {
+      "id": 1508,
+      "name": "Трапезен комплект VIYANA",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/trapezen-komplekt-viyana/"
+    },
+    {
+      "id": 1501,
+      "name": "Трапезен комплект NEVA 41",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/trapezen-komplekt-neva-41/"
+    },
+    {
+      "id": 1477,
+      "name": "Трапезен комплект FD-2WRCKTSPL7070",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/trapezen-komplekt-fd-2wrcktspl7070-bendir/"
+    },
+    {
+      "id": 1473,
+      "name": "Трапезен комплект ROMA 20 (white)",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/trapezen-komplekt-roma-20-white/"
+    },
+    {
+      "id": 1468,
+      "name": "Трапезен комплект NEVA 41 (barok)",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/trapezen-komplekt-neva-41-barok/"
+    },
+    {
+      "id": 1304,
+      "name": "Кухненски модул Хавана B10",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnenski-modul-havana-b10/"
+    },
+    {
+      "id": 1300,
+      "name": "Кухненски модул Хавана B2",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnenski-modul-havana-b2/"
+    },
+    {
+      "id": 1295,
+      "name": "Кухненски модул Хавана B25",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnenski-modul-havana-b25/"
+    },
+    {
+      "id": 1292,
+      "name": "Кухненски модул Хавана B62",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnenski-modul-havana-b62/"
+    },
+    {
+      "id": 1289,
+      "name": "Кухненски модул Хавана B51",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnenski-modul-havana-b51-2/"
+    },
+    {
+      "id": 1286,
+      "name": "Кухненски модул Хавана G58",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnenski-modul-havana-g58/"
+    },
+    {
+      "id": 1283,
+      "name": "Кухненски модул Хавана B4",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnenski-modul-havana-b4/"
+    },
+    {
+      "id": 1277,
+      "name": "Кухненски модул Хавана B3",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnenski-modul-havana-b3-2/"
+    },
+    {
+      "id": 1264,
+      "name": "Кухненски модул Хавана B7",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnenski-modul-havana-b7/"
+    },
+    {
+      "id": 1259,
+      "name": "Кухненски модул Хавана G15",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnenski-modul-havana-g15/"
+    },
+    {
+      "id": 1256,
+      "name": "Кухненски модул Хавана G13",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnenski-modul-havana-g13/"
+    },
+    {
+      "id": 1223,
+      "name": "Кухненски модул Хавана G32",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnenski-modul-havana-g32/"
+    },
+    {
+      "id": 1211,
+      "name": "Кухненски модул Хавана B5",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnenski-modul-havana-b5/"
+    },
+    {
+      "id": 1203,
+      "name": "Кухненски модул Хавана B61",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnenski-modul-havana-b61/"
+    },
+    {
+      "id": 1192,
+      "name": "Кухненски модул Хавана G31",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnenski-modul-havana-g31/"
+    },
+    {
+      "id": 1183,
+      "name": "Кухненски модул Хавана G17",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnenski-modul-havana-g17-2/"
+    },
+    {
+      "id": 1179,
+      "name": "Кухненски модул Хавана B22",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnenski-modul-havana-b22/"
+    },
+    {
+      "id": 1176,
+      "name": "Кухненски модул Хавана G21",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnenski-modul-havana-g21-2/"
+    },
+    {
+      "id": 1007,
+      "name": "Кухненски модул Хавана G60",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnenski-modul-havana-g60/"
+    },
+    {
+      "id": 1003,
+      "name": "Кухненски модул Хавана B53",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnenski-modul-havana-b53/"
+    },
+    {
+      "id": 1001,
+      "name": "Кухненски модул Хавана G23",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnenski-modul-havana-g23/"
+    },
+    {
+      "id": 999,
+      "name": "Кухненски модул Хавана G18",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnenski-modul-havana-g18/"
+    },
+    {
+      "id": 997,
+      "name": "Кухненски модул Хавана G57",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnenski-modul-havana-g57/"
+    },
+    {
+      "id": 995,
+      "name": "Кухненски модул Хавана G59",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnenski-modul-havana-g59/"
+    },
+    {
+      "id": 993,
+      "name": "Кухненски модул Хавана B54",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnenski-modul-havana-b54/"
+    },
+    {
+      "id": 991,
+      "name": "Кухненски модул Хавана B55",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnenski-modul-havana-b55/"
+    },
+    {
+      "id": 987,
+      "name": "Кухненски модул Хавана B51",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnenski-modul-havana-b51/"
+    },
+    {
+      "id": 984,
+      "name": "Кухненски модул Хавана G49",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnenski-modul-havana-g49/"
+    },
+    {
+      "id": 981,
+      "name": "Кухненски модул Хавана G17",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnenski-modul-havana-g17/"
+    },
+    {
+      "id": 978,
+      "name": "Кухненски модул Хавана B56",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnenski-modul-havana-b56/"
+    },
+    {
+      "id": 975,
+      "name": "Кухненски модул Хавана G21",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnenski-modul-havana-g21/"
+    },
+    {
+      "id": 970,
+      "name": "Кухненски модул Хавана G28",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnenski-modul-havana-g28/"
+    },
+    {
+      "id": 962,
+      "name": "Кухненски модул Хавана B63",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnenski-modul-havana-b63/"
+    },
+    {
+      "id": 957,
+      "name": "Кухненски модул Хавана B50",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnenski-modul-havana-b50/"
+    },
+    {
+      "id": 902,
+      "name": "Кухня Сити 9125 &#8211; лице MDF/МДФ",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnya-siti-9125-litse-mdf-mdf/"
+    },
+    {
+      "id": 880,
+      "name": "Кухня Сити 9114",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnya-siti-9114/"
+    },
+    {
+      "id": 873,
+      "name": "Кухня Сити 872",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnya-siti-872/"
+    },
+    {
+      "id": 870,
+      "name": "Кухня Сити 876",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/kuhnya-siti-876/"
+    },
+    {
+      "id": 826,
+      "name": "Шкаф за обувки FIONA (антрацит/бяло)",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/shkaf-za-obuvki-fiona-antratsit-byalo/"
+    },
+    {
+      "id": 820,
+      "name": "Шкаф за обувки SUNNO (дъб)",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/shkaf-za-obuvki-sunno-dab/"
+    },
+    {
+      "id": 812,
+      "name": "Шкаф за обувки PYRAMID (ретро сиво/бяло)",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/shkaf-za-obuvki-pyramid-retro-sivo-byalo/"
+    },
+    {
+      "id": 796,
+      "name": "Шкаф за обувки DUDE (ретро сиво)",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/shkaf-za-obuvki-dude-retro-sivo/"
+    },
+    {
+      "id": 787,
+      "name": "Шкаф за обувки COVE (антрацит)",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/shkaf-za-obuvki-cove-antratsit/"
+    },
+    {
+      "id": 780,
+      "name": "Шкаф за обувки DUNE (бяло)",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/shkaf-za-obuvki-dune-byalo/"
+    },
+    {
+      "id": 741,
+      "name": "Закачалка GAME (хитит/бяло)",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/zakachalka-game-hitit-byalo/"
+    },
+    {
+      "id": 600,
+      "name": "Портманто ARCHY (бяло)",
+      "type": "simple",
+      "parent": null,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/portmanto-archy-byalo/"
+    }
+  ]
 }

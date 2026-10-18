@@ -1,0 +1,8 @@
+name: Проверка на кода за Meta (само четене)
+on: workflow_dispatch
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/scan_pixel.py

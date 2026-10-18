@@ -1,0 +1,29 @@
+name: Седмичен списък с продукти за Meta
+
+on:
+  schedule:
+    - cron: "0 4 * * 1"   # всеки понеделник, 04:00 UTC (07:00 българско време)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  feed:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Сглобяване на списъка (само четене от публичния сайт)
+        run: python3 scripts/build_feed.py .
+      - name: Записване, ако има промяна
+        run: |
+          git config user.name "ivko-feed-bot"
+          git config user.email "ivko-feed-bot@users.noreply.github.com"
+          git add feed.csv report.json
+          if git diff --cached --quiet; then
+            echo "Няма промяна."
+          else
+            git commit -m "Нов списък с продукти за Meta"
+            git push
+          fi

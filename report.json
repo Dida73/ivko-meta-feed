@@ -1,13 +1,79 @@
 {
-  "products_read": 1129,
-  "variations_read": 133,
-  "rows_in_feed": 1095,
+  "products_read": 1131,
+  "variations_read": 178,
+  "rows_in_feed": 1134,
   "rows_with_price_zero": 0,
   "rows_without_image": 0,
   "skipped": {
-    "цена 0 или липсва": 125
+    "цена 0 или липсва": 131
   },
   "skipped_price_zero_list": [
+    {
+      "id": 10087,
+      "name": "Подматрачна рамка РосМари Практик Black Charm – Опция Р",
+      "type": "variation",
+      "parent": 10079,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/%d0%bf%d0%be%d0%b4%d0%bc%d0%b0%d1%82%d1%80%d0%b0%d1%87%d0%bd%d0%b0-%d1%80%d0%b0%d0%bc%d0%ba%d0%b0-%d1%80%d0%be%d1%81%d0%bc%d0%b0%d1%80%d0%b8-%d0%bf%d1%80%d0%b0%d0%ba%d1%82%d0%b8%d0%ba-black-charm/"
+    },
+    {
+      "id": 10086,
+      "name": "Подматрачна рамка РосМари Практик Black Charm – Опция Р",
+      "type": "variation",
+      "parent": 10079,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/%d0%bf%d0%be%d0%b4%d0%bc%d0%b0%d1%82%d1%80%d0%b0%d1%87%d0%bd%d0%b0-%d1%80%d0%b0%d0%bc%d0%ba%d0%b0-%d1%80%d0%be%d1%81%d0%bc%d0%b0%d1%80%d0%b8-%d0%bf%d1%80%d0%b0%d0%ba%d1%82%d0%b8%d0%ba-black-charm/"
+    },
+    {
+      "id": 10085,
+      "name": "Подматрачна рамка РосМари Практик Black Charm – Опция Р",
+      "type": "variation",
+      "parent": 10079,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/%d0%bf%d0%be%d0%b4%d0%bc%d0%b0%d1%82%d1%80%d0%b0%d1%87%d0%bd%d0%b0-%d1%80%d0%b0%d0%bc%d0%ba%d0%b0-%d1%80%d0%be%d1%81%d0%bc%d0%b0%d1%80%d0%b8-%d0%bf%d1%80%d0%b0%d0%ba%d1%82%d0%b8%d0%ba-black-charm/"
+    },
+    {
+      "id": 10084,
+      "name": "Подматрачна рамка РосМари Практик Black Charm – Опция Р",
+      "type": "variation",
+      "parent": 10079,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/%d0%bf%d0%be%d0%b4%d0%bc%d0%b0%d1%82%d1%80%d0%b0%d1%87%d0%bd%d0%b0-%d1%80%d0%b0%d0%bc%d0%ba%d0%b0-%d1%80%d0%be%d1%81%d0%bc%d0%b0%d1%80%d0%b8-%d0%bf%d1%80%d0%b0%d0%ba%d1%82%d0%b8%d0%ba-black-charm/"
+    },
+    {
+      "id": 10083,
+      "name": "Подматрачна рамка РосМари Практик Black Charm – Опция Р",
+      "type": "variation",
+      "parent": 10079,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/%d0%bf%d0%be%d0%b4%d0%bc%d0%b0%d1%82%d1%80%d0%b0%d1%87%d0%bd%d0%b0-%d1%80%d0%b0%d0%bc%d0%ba%d0%b0-%d1%80%d0%be%d1%81%d0%bc%d0%b0%d1%80%d0%b8-%d0%bf%d1%80%d0%b0%d0%ba%d1%82%d0%b8%d0%ba-black-charm/"
+    },
+    {
+      "id": 10082,
+      "name": "Подматрачна рамка РосМари Практик Black Charm – Опция Р",
+      "type": "variation",
+      "parent": 10079,
+      "raw_prices": {
+        "price": "0",
+        "regular_price": "0"
+      },
+      "link": "https://mebeliivko.bg/produkt/%d0%bf%d0%be%d0%b4%d0%bc%d0%b0%d1%82%d1%80%d0%b0%d1%87%d0%bd%d0%b0-%d1%80%d0%b0%d0%bc%d0%ba%d0%b0-%d1%80%d0%be%d1%81%d0%bc%d0%b0%d1%80%d0%b8-%d0%bf%d1%80%d0%b0%d0%ba%d1%82%d0%b8%d0%ba-black-charm/"
+    },
     {
       "id": 10123,
       "name": "Бебешки матрак Koko baby",
